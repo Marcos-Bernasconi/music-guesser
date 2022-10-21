@@ -8,7 +8,7 @@ function App() {
   return (
   <Router>
   <Routes>
-  <Route path="/" element={<Home/>}></Route>
+  <Route exact path="/" element={<Home/>}></Route>
   <Route exact path="/game" element={<Game/>}></Route>
 </Routes>
 
