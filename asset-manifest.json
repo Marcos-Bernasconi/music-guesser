@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/music-guesser/static/css/main.8564075c.css",
+    "main.js": "/music-guesser/static/js/main.8bd9840a.js",
+    "static/media/albumCollection.png": "/music-guesser/static/media/albumCollection.fe238e213a4db86ce3e9.png",
+    "static/media/albumscover.jpg": "/music-guesser/static/media/albumscover.12b4d03584dbb4457b70.jpg",
+    "index.html": "/music-guesser/index.html",
+    "main.8564075c.css.map": "/music-guesser/static/css/main.8564075c.css.map",
+    "main.8bd9840a.js.map": "/music-guesser/static/js/main.8bd9840a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8564075c.css",
+    "static/js/main.8bd9840a.js"
+  ]
+}
