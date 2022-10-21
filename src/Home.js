@@ -16,7 +16,7 @@ function Home() {
   
     <p>Have fun testing your memory and your musical culture.</p>
     
-    <Link to="/game">
+    <Link to="/music-guesser/game">
     <button type="button">Play Now</button>
     </Link>
     </div>
