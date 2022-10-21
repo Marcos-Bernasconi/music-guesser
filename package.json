@@ -1,6 +1,6 @@
 {
   "name": "musicguesser",
-  "homepage": "http://marcos-bernasconi.github.io/music-guesser/",
+  "homepage": "https://marcos-bernasconi.github.io/music-guesser/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
