@@ -1,6 +1,6 @@
 # Music Guesser
 
-A game where you have to guess the singer, just listening to a song and seeing a picture. 
+A game where you have to guess the singer, just listening to a song and seeing a picture.
 <br> 
 This project is currently not operational due to an API issue.
 
